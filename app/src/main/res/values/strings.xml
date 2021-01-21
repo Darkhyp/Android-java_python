@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Python in Android</string>
+    <string name="claculate">Claculate</string>
+    <string name="variable_2">Variable 2</string>
+    <string name="variable_1">Variable 1</string>
+    <string name="enter_variable_2">enter variable 2</string>
+    <string name="enter_variable_1">enter variable 1</string>
+</resources>
