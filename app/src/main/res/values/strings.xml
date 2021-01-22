@@ -1,8 +1,13 @@
 <resources>
     <string name="app_name">Python in Android</string>
-    <string name="claculate">Claculate using Python</string>
+<!--    <string name="claculate">Claculate using Python</string>-->
+    <string name="claculate">Run python function count_occurences_in_text</string>
+    <string name="open">Open text</string>
     <string name="variable_2">Variable 2</string>
     <string name="variable_1">Variable 1</string>
-    <string name="enter_variable_2">enter variable 2</string>
-    <string name="enter_variable_1">enter variable 1</string>
+<!--    <string name="enter_variable_2">enter variable 2</string>-->
+<!--    <string name="enter_variable_1">enter variable 1</string>-->
+    <string name="enter_variable_2">enter searching phrase</string>
+    <string name="enter_variable_1">enter text</string>
+    <string name="here_is_an_answer">Here is an answer</string>
 </resources>
