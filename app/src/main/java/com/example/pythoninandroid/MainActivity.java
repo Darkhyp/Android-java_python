@@ -146,7 +146,7 @@ public class MainActivity extends AppCompatActivity {
                 PyObject pobj = pyObject.callAttr("count_occurences_in_text", var2.getText().toString(), var1.getText().toString());
                 execution_time = System.nanoTime() - execution_time;
 
-                outText.setText("There is(are) "+pobj.toString()+" occurence(s). Execution time = "+(float)execution_time/1e3+"\u00B5s");
+                outText.setText("There is(are) "+pobj.toString()+" occurence(s). Execution time = "+(float)execution_time/1e6+"ms");
 
             }
         });
